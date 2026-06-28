@@ -1,6 +1,6 @@
 # apm-site
 
-Public **Support + Privacy** page for *Ansha Photo Mosaic*, hosted on GitHub Pages.
+Public **Support + Privacy** page for *Ansh Photo Mosaic*, hosted on GitHub Pages.
 Kept in its own repo so the app's internal docs stay private.
 
 | File | What |
@@ -17,7 +17,7 @@ From inside this folder:
 ```sh
 git init -b main
 git add .
-git commit -m "Ansha Photo Mosaic — support & privacy page"
+git commit -m "Ansh Photo Mosaic — support & privacy page"
 gh repo create apm-site --public --source=. --remote=origin --push
 ```
 
