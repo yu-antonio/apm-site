@@ -1,13 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#9E66EB"/>
-      <stop offset="0.5" stop-color="#4D8CF2"/>
-      <stop offset="1" stop-color="#3DC7C7"/>
-    </linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="15" fill="url(#g)"/>
-  <path d="M32 14 L46 22 L46 42 L32 50 L18 42 L18 22 Z"
-        fill="none" stroke="#fff" stroke-width="4" stroke-linejoin="round"/>
-  <circle cx="32" cy="32" r="5.5" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Ansha Photo Mosaic honeycomb logo">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#274055"/><stop offset="1" stop-color="#0b1017"/></linearGradient></defs>
+<rect width="64" height="64" rx="14" fill="url(#g)"/>
+<polygon points="40.0,32.0 36.0,38.9 28.0,38.9 24.0,32.0 28.0,25.1 36.0,25.1" fill="#FCCC5C" stroke="#FCCC5C" stroke-width="2.2" stroke-linejoin="round"/><polygon points="40.0,17.0 36.0,23.9 28.0,23.9 24.0,17.0 28.0,10.1 36.0,10.1" fill="#9E66EB" stroke="#9E66EB" stroke-width="2.2" stroke-linejoin="round"/><polygon points="53.0,24.5 49.0,31.4 41.0,31.4 37.0,24.5 41.0,17.6 49.0,17.6" fill="#F2738C" stroke="#F2738C" stroke-width="2.2" stroke-linejoin="round"/><polygon points="53.0,39.5 49.0,46.4 41.0,46.4 37.0,39.5 41.0,32.6 49.0,32.6" fill="#F79E59" stroke="#F79E59" stroke-width="2.2" stroke-linejoin="round"/><polygon points="40.0,47.0 36.0,53.9 28.0,53.9 24.0,47.0 28.0,40.1 36.0,40.1" fill="#73D180" stroke="#73D180" stroke-width="2.2" stroke-linejoin="round"/><polygon points="27.0,39.5 23.0,46.4 15.0,46.4 11.0,39.5 15.0,32.6 23.0,32.6" fill="#3DC7C7" stroke="#3DC7C7" stroke-width="2.2" stroke-linejoin="round"/><polygon points="27.0,24.5 23.0,31.4 15.0,31.4 11.0,24.5 15.0,17.6 23.0,17.6" fill="#4D8CF2" stroke="#4D8CF2" stroke-width="2.2" stroke-linejoin="round"/>
 </svg>
